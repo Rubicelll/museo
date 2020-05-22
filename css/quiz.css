@@ -1,0 +1,10 @@
+#quiz{
+  min-height: calc(100vh - 112px);
+}
+#test .cuestion{
+  font-size: 20px;
+}
+#test label{
+  display: block;
+  margin-bottom: 0;
+}
